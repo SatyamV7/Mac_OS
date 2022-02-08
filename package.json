@@ -1,0 +1,16 @@
+{
+  "name": "Mac OS",
+  "version": "1.0.0",
+  "description": "Mac OS simulator using HTML, CSS, and JavaScript",
+  "main": "sw.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Satyam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mhmdmhd6/Mac-OS-Desktop/issues"
+  },
+  "manifest_version": 2
+}
