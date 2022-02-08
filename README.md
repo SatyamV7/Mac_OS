@@ -23,4 +23,4 @@ Features ➜
 
 1. Dock
 
-2. Launchpa
+2. Launchpad
